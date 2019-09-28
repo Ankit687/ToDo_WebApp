@@ -4,5 +4,8 @@ I created this webapp from [here](https://medium.com/fbdevclagos/how-to-build-a-
 
 Run this on your system Using the following commands:
 
-`./manange.py runserver 9200`
+`./manage.py runserver 9200`
 
+Then navigate to `localhost:9200/` on a browser of your choice.
+
+Use the WebApp
